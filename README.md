@@ -21,11 +21,11 @@ meter.get();
 
 ## API
 
-`add(predicted, golden);`
+### add(predicted, golden)
 
 It adds a pair <predicted, golden>, representing the set of prdicted labels and the set of golden labels. Golden and predicted labels are both arrays.
 
-`get()`
+### get()
 
 It returns an object containing:
 * precision
