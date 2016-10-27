@@ -38,5 +38,5 @@ It returns an object containing:
 * machine learning is more and more in the cloud (check Watson NLP Classifier)
 * machine learning is becoming just a set of Http end points to invoke
 * node.js is perfect as middleware and client among Http end points
-* ...so it might help you to measure the accuracy of your algorithms in the cloud
+* ...accuracy-meter might help you to measure the accuracy of your algorithms in the cloud
 
